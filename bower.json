@@ -1,0 +1,22 @@
+{
+  "name": "ng-http-debounce",
+  "description": "$http interceptor to debounce calling same api, same configs many time , instead call it one time , while resolve all callee",
+  "main": "ng-http-debounce.js",
+  "authors": [
+    "EngMoathOmar <eng.moath.omar@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs",
+    "http",
+    "debounce"
+  ],
+  "homepage": "https://github.com/EngMoathOmar/angularjs-http-de-bouncer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

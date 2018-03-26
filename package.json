@@ -1,0 +1,24 @@
+{
+  "name": "ng-http-debounce",
+  "version": "1.0.0",
+  "description": "$http interceptor to debounce calling same api, same configs many time , instead call it one time , while resolve all callee",
+  "main": "ng-http-debounce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngMoathOmar/angularjs-http-de-bouncer.git"
+  },
+  "keywords": [
+    "angularjs",
+    "http",
+    "debounce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngMoathOmar/angularjs-http-de-bouncer/issues"
+  },
+  "homepage": "https://github.com/EngMoathOmar/angularjs-http-de-bouncer#readme"
+}
